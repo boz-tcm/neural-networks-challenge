@@ -4,7 +4,7 @@
 
 > Background: We work as a risk management associate at Alphabet Soup, a fictitious venture capital firm. The Alphabet Soup business team receives many funding applications from startups every day. This team has asked us to help them create a model that predicts whether applicants will become successful if funded by Alphabet Soup.
 
-The team has given us a CSV file containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. This file contains various types of information about the organizations, including whether they ultimately became successful. With our knowledge of machine learning and neural networks, we decide to use the features in the provided dataset to create a binary classifier model that will predict whether an applicant will become successful.
+> The team has given us a CSV file containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. This file contains various types of information about the organizations, including whether they ultimately became successful. With our knowledge of machine learning and neural networks, we decide to use the features in the provided dataset to create a binary classifier model that will predict whether an applicant will become successful.
 
 > Purpose: In this activity, we use our newfound Neural Net machine learning and Python skills to predict whether Alphabet Soup funding applicants will be successful.  We create a binary classification model using a deep neural network to complete this task, which includes the following three technical deliverables:
 1. Preprocess data for a neural network model.
